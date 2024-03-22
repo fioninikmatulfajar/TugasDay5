@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskDay5</string>
+    <string name="fioni_nikmatul_fajar_quiz_1">Fioni Nikmatul Fajar Quiz 1</string>
+    <string name="nama_customer">Customer Name</string>
+    <string name="membership">Membership</string>
+    <string name="biasa">Normal</string>
+    <string name="silver">Silver</string>
+    <string name="gold">Gold</string>
+    <string name="kode_barang">Item Code</string>
+    <string name="jumlah">Amount</string>
+    <string name="proses">Process</string>
+    <string name="detail_transaksi">Transaction Details</string>
+    <string name="thank_you_for_shopping">Thank You For Shopping</string>
+    <string name="share">Share</string>
+    <string name="masukkan_nama_pelanggan">Enter Transanction Detail</string>
+    <string name="masukkan_kode_barang">Enter the Item Code</string>
+    <string name="masukkan_jumlah">Enter Amount</string>
+    <string name="harga">Price</string>
+    <string name="nama_pelanggan">Customer Name</string>
+    <string name="kode_item">Item Code</string>
+    <string name="nama_barang">Item Name</string>
+    <string name="hargaa">Price</string>
+    <string name="jumlah_barang">Total Stuff</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="diskon_harga">Price Discount</string>
+    <string name="diskon_member">Member Diskon</string>
+    <string name="total">Total</string>
+</resources>

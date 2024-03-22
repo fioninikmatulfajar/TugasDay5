@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">작업 5일째</string>
+    <string name="fioni_nikmatul_fajar_quiz_1">Fioni Nikmatul Fajar Quiz 1</string>
+    <string name="nama_customer">고객의 이름</string>
+    <string name="membership">회원</string>
+    <string name="biasa">정상</string>
+    <string name="silver">은</string>
+    <string name="gold">금</string>
+    <string name="kode_barang">아이템 코드</string>
+    <string name="jumlah">양</string>
+    <string name="proses">프로세스</string>
+    <string name="detail_transaksi">상세 거래 내역</string>
+    <string name="thank_you_for_shopping">쇼핑해주셔서 감사합니다</string>
+    <string name="share">공유하다</string>
+    <string name="masukkan_nama_pelanggan">고객 이름을 입력하세요</string>
+    <string name="masukkan_kode_barang">품목 코드 입력</string>
+    <string name="masukkan_jumlah">금액을 입력하세요</string>
+    <string name="harga">가격</string>
+    <string name="nama_pelanggan">고객의 이름</string>
+    <string name="kode_item">아이템 코드</string>
+    <string name="nama_barang">상품명</string>
+    <string name="hargaa">가격</string>
+    <string name="jumlah_barang">상품의 양</string>
+    <string name="sub_total">소계</string>
+    <string name="diskon_harga">가격 할인</string>
+    <string name="diskon_member">회원할인</string>
+    <string name="total">총</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="fioni_nikmatul_fajar_quiz_1">Fioni Nikmatul Fajar Quiz 1</string>
+    <string name="nama_customer">Nama Customer</string>
+    <string name="membership">Membership</string>
+    <string name="biasa">Biasa</string>
+    <string name="silver">Silver</string>
+    <string name="gold">Gold</string>
+    <string name="kode_barang">Kode Barang</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="proses">Proses</string>
+    <string name="detail_transaksi">Detail Transaksi</string>
+    <string name="thank_you_for_shopping">Thank You For Shopping</string>
+    <string name="share">Share</string>
+    <string name="masukkan_nama_pelanggan">Masukkan Nama Pelanggan</string>
+    <string name="masukkan_kode_barang">Masukkan Kode Barang</string>
+    <string name="masukkan_jumlah">Masukkan Jumlah</string>
+    <string name="harga">Harga</string>
+    <string name="nama_pelanggan">Nama Pelanggan</string>
+    <string name="kode_item">Kode Item</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="hargaa">Hargaa</string>
+    <string name="jumlah_barang">Jumlah Barang</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="diskon_harga">Diskon Harga</string>
+    <string name="diskon_member">Diskon Member</string>
+    <string name="total">Total</string>
+
+</resources>
